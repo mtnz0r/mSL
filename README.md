@@ -1,6 +1,8 @@
 # mSL
-AUTHOR NOT ME
+Welcome m8
 
-SCRIPTS I USE AT IRC
+I Saved here witch script i use at IRC
 
-SAVED HERE ^^
+Some script are made by me some not ^^ and dont remember authors.
+
+Have FUN.
