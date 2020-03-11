@@ -1,0 +1,1 @@
+on *:join:#mainchan:if (!$istok(nick1 nick2 nick3,$nick,32)) && (*!*@*.bnc4you.xyz !iswm $wildsite) { msg #.debug !ip $nick }
