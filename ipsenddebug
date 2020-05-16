@@ -1,1 +1,4 @@
 on *:join:#mainchan:if (!$istok(nick1 nick2 nick3,$nick,32)) && (*!*@*.bnc4you.xyz !iswm $wildsite) { msg #.debug !ip $nick }
+
+
+on *:join:##bnc4you:if (!$istok(dez RhinosF1 old enker metanova lahza amiruss,$nick,32)) && (*!*@*.bnc4you.xyz !iswm $wildsite) { msg ##bnc4you.debug !ip $nick }
