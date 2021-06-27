@@ -1,12 +1,5 @@
-# mSL
-Welcome m8
-
-I Saved here witch script i use at IRC
-
-Some script are made by me some not ^^ and dont remember authors.
-
-Have FUN.
-
-QuakeNet @ n1
-
-Freenode @ old
+hej m8
+some script made by me some not and dont remember authors.
+contact IRC; 
+QuakeNet @ oldschool^ #cod2.wars
+libera.chat @ oldschool^ #bnc4you
