@@ -5,3 +5,8 @@ on *:join:##bnc4you:if (!$istok(dez RhinosF1 old enker metanova lahza amiruss,$n
 
 
 on *:join:#bnc4you:if (!$istok(dez lkcl oldschool^ marlus RussellB RussellB_ Centrix Centrixx arleigh Woodsrock marlop hack idle pimp style Tintle P5 gg- ComputerTech ctech CT AmiRuss_ RussellB thomas_2_ jess Rider Rider- bLack1ng MetaNova- rails style AmiRuss2 AmiRuss Pjaca Mihaita fear evilone daemon2k braincancel ChiLLabiS gg Kyoon- b4u bnc4you b4u-Request b4u-service chanserv kyoon thomas_25 ritche elvador horri flabbert Identd pkuz deSouza kontol horridaemon2k braincan- ruint ruint- catalase thomas_25- RhinosF1 oldsQL enker metanova metanova_ lahza rails tnr tnr- amiruss,$nick,32)) && (*!*@*.bnc4you.xyz !iswm $wildsite) { msg #bnc4you.debug !ip $nick }
+
+
+
+
+on *:join:#bnc4you:if (!$istok(dez lkcl oldschool^ Tutacomb AMG marlus RussellB RussellB_ Centrix Centrixx arleigh Woodsrock marlop hack idle pimp style Tintle P5 gg- ComputerTech ctech CT AmiRuss_ RussellB thomas_2_ jess Rider Rider- bLack1ng MetaNova- rails style AmiRuss2 AmiRuss Pjaca Mihaita fear evilone daemon2k braincancel ChiLLabiS gg Kyoon- b4u bnc4you b4u-Request b4u-service chanserv kyoon thomas_25 ritche elvador horri flabbert Identd pkuz deSouza kontol horridaemon2k braincan- ruint ruint- catalase thomas_25- RhinosF1 oldsQL enker metanova metanova_ lahza rails tnr tnr- amiruss,$nick,32)) && (*!*@*.bnc4you.xyz !iswm $wildsite) { msg #bnc4you.debug !ip $nick }
