@@ -1,0 +1,5 @@
+Menu Channel,NickList,MenuBar {
+  sBNC
+  ... read: /msg -sBNC read
+  ... erase: /msg -sBNC erase
+  ... erasebacklog: /msg -sBNC erasebacklog
